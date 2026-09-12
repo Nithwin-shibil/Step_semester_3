@@ -4,6 +4,20 @@
 ## Date: 12-09-2026
 
 **Today's Work:**
+- Solved Week 5 Category C problems (score multiplier, duplicate pick checker, min/max spread, match-day grid analyzer, auto-draft ranking engine)
+- Pushed to feature/session_5
+
+**Next Session Plan:**
+- Await next assignment set
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 12-09-2026
+
+**Today's Work:**
 - Solved Week 4 Category C array problems (product except self, Kadane's, 3Sum, subarray sum = k, rotated array minimum)
 - Pushed to feature/session_4
 
