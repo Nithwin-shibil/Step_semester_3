@@ -4,6 +4,20 @@
 ## Date: 12-09-2026
 
 **Today's Work:**
+- Solved Week 6 Classes and Objects problems (encapsulation, constructor chaining, reference vs value semantics, static members)
+- Pushed to feature/session_6
+
+**Next Session Plan:**
+- Await next assignment set
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 12-09-2026
+
+**Today's Work:**
 - Solved Week 5 Category C problems (score multiplier, duplicate pick checker, min/max spread, match-day grid analyzer, auto-draft ranking engine)
 - Pushed to feature/session_5
 
