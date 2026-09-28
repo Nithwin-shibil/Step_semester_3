@@ -1,5 +1,20 @@
 # Step_semester_3
 
+## Date: 29-09-2026 (Completed Late)
+
+**Today's Work:**
+- Completed the missed Week 3 Classes and Objects problems late (book record, separate exam hall counts, default field values, basic product constructor, static order counter)
+- Added the five Week 3 class_problems files
+- Pushed to feature/session_3
+
+**Next Session Plan:**
+- Await next assignment set
+
+**Issues Faced:**
+- Week 3 was missed on time, so it was done late
+
+---
+
 ## Date: 29-09-2026
 
 **Today's Work:**
