@@ -1,5 +1,19 @@
 # Step_semester_3
 
+## Date: 29-09-2026
+
+**Today's Work:**
+- Solved Week 8 Category C Polymorphism problems (canteen billing, parking charge, hostel electricity bill, festival bonus, streaming plan renewal)
+- Pushed to feature/session_8
+
+**Next Session Plan:**
+- Await next assignment set
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 12-09-2026
 
 **Today's Work:**
