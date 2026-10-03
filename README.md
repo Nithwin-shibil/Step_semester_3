@@ -1,5 +1,19 @@
 # Step_semester_3
 
+## Date: 03-10-2026
+
+**Today's Work:**
+- Solved Week 9 Category C Abstraction and Interface problems (movie ticket counter, parcel shipping desk, college fee counter, city cab fare meter, home appliance energy report)
+- Pushed to feature/session_9
+
+**Next Session Plan:**
+- Await next assignment set
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 29-09-2026 (Completed Late)
 
 **Today's Work:**
