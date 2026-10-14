@@ -3,7 +3,7 @@
 ## Date: 14-10-2026
 
 **Today's Work:**
-- Solved Week 10 Category C 2D array problem (Problem 10: Busiest Bus Row)
+- Solved Week 10 Category C problems (Problem 4: Exam Score Band Counter, Problem 6: Class Attendance Tracker, Problem 7: Second-Best Score, Problem 8: Duty Roster Rotation, Problem 10: Busiest Bus Row)
 - Pushed to feature/session_10
 
 **Next Session Plan:**
