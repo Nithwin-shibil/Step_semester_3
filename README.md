@@ -1,5 +1,19 @@
 # Step_semester_3
 
+## Date: 14-10-2026
+
+**Today's Work:**
+- Solved Week 10 Category C 2D array problem (Problem 10: Busiest Bus Row)
+- Pushed to feature/session_10
+
+**Next Session Plan:**
+- Await next assignment set
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 03-10-2026
 
 **Today's Work:**
